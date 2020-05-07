@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>
-		Peepshow
-		</title>
-		<link rel="stylesheet" href="css\style.css">
-		<link rel="shortcut icon" href="img\peepshow.ico">
-	</head>
-	
-	<body>
+		<body>
 		<div class="bar">
 			<div class="navi">
 				<div >
@@ -34,5 +24,4 @@
 			</p>
 		</div>
 	</body>
-</html>
 
